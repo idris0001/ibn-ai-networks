@@ -1,0 +1,1 @@
+# AI-Driven Intent-Based Networking Research This repository contains collaboration materials for our research on AI-enhanced Intent-Based Networking (IBN), including literature review, system architecture, algorithms, simulations, and manuscript development.
